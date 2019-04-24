@@ -55,6 +55,6 @@ PHP 以其低廉的学习成本，极高的开发效率，使您在完成同等�
 
 ## 参考文献
 
-https://php-is-the-best-language-in-the-world.com
-https://996.icu/#/zh_CN
-https://www.zhihu.com/question/26498147
+- https://php-is-the-best-language-in-the-world.com
+- https://996.icu/#/zh_CN
+- https://www.zhihu.com/question/26498147
