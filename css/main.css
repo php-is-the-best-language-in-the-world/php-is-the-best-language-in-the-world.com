@@ -10,9 +10,21 @@ body {
 header {
     border-bottom: #4F5B93 solid 5px;
     background: #8892BF;
-    margin-bottom: 1rem;
     text-align: center;
     color: #EEE;
+}
+.buttons {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+.buttons ul {
+    margin: 1rem 0;
+    list-style: none;
+    height: 28px;
+}
+.buttons ul li {
+    float: right;
+    margin-left: 1rem;
 }
 footer {
     max-width: 1170px;
