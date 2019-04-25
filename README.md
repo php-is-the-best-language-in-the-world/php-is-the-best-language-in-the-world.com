@@ -53,7 +53,7 @@ PHP 以其低廉的学习成本，极高的开发效率，使您在完成同等�
 - PHP 는 세계 최고의 언어입니다.
 - PHP は世界で最も優れた言語である．
 - PHP is the best language in the world.
-- PHP est la meilleure langue au monde.
+- PHP est le meilleur langage au monde.
 - PHP ist die beste Sprache der Welt.
 - PHP é a melhor língua do mundo.
 - El PHP es el mejor idioma del mundo.
