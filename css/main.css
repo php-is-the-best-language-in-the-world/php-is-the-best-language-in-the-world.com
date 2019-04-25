@@ -1,0 +1,45 @@
+html {
+    background: #333 url(./images/bg.svg);
+    color: #CCC;
+}
+body {
+    margin: 0;
+    font-size: 16px;
+    font-family: -apple-system, "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "WenQuanYi Micro Hei", "Microsoft YaHei", sans-serif;
+}
+header {
+    border-bottom: #4F5B93 solid 5px;
+    background: #8892BF;
+    margin-bottom: 1rem;
+    text-align: center;
+    color: #EEE;
+}
+footer {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+h1 {
+    margin: 0;
+    font-size: 30px;
+    padding: 5px 0;
+}
+h2 {
+    font-size: 24px;
+    border-bottom: 1px dotted;
+    padding-bottom: 10px;
+}
+main {
+    max-width: 1140px;
+    margin: 0 auto;
+    background-color: #FFF;
+    padding: 10px 20px;
+    color: #333;
+}
+
+ul {
+    padding-left: 2rem;
+}
+
+li {
+    line-height: 1.6rem;
+}
