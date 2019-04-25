@@ -37,6 +37,7 @@ PHP 以其低廉的学习成本，极高的开发效率，使您在完成同等�
 - PHP - `echo 'PHP 是世界上最好的语言';`
 - Python - `print('PHP 是世界上最好的语言')`
 - Golang - `print("PHP 是世界上最好的语言")`
+- Dart - `print('PHP是世界上最好的语言');`
 - Java - `System.out.println("PHP 是世界上最好的语言");`
 - C - `printf("PHP 是世界上最好的语言");`
 - Groovy - `System.out.println("PHP 是世界上最好的语言")`
