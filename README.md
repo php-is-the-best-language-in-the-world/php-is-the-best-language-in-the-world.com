@@ -49,7 +49,8 @@ PHP 以其低廉的学习成本，极高的开发效率，使您在完成同等�
 - Python - `print('PHP 是世界上最好的语言')`
 - Ruby - `print('PHP 是世界上最好的语言')`
 - Rust - `println!("PHP 是世界上最好的语言");`
-
+- Batch - `echo PHP 是世界上最好的语言`
+- PowerShell - `echo 'PHP 是世界上最好的语言'`
 
 
 ## 使用世界各国语言说出“PHP 是世界上最好的语言”
