@@ -26,6 +26,7 @@ PHP 以其低廉的学习成本，极高的开发效率，使您在完成同等�
 - Phalcon
 - Zend Framework
 
+
 ## 未来的 PHP
 
 * PHP5 到 7 的性能提升
@@ -33,20 +34,22 @@ PHP 以其低廉的学习成本，极高的开发效率，使您在完成同等�
 * PHP7 + Swoole 开发互联网、移动通信、企业软件、云计算、网络游戏、物联网（IOT）、车联网、智能家居等
 * PHP8 的 JIT
 
+
 ## 使用各种编程语言输出“PHP 是世界上最好的语言”
 
+- C - `printf("PHP 是世界上最好的语言");`
+- C++ - `cout << "PHP 是世界上最好的语言" << endl;`
+- Dart - `print('PHP是世界上最好的语言');`
+- Golang - `fmt.Println("PHP 是世界上最好的语言")`
+- Groovy - `System.out.println("PHP 是世界上最好的语言")`
+- Java - `System.out.println("PHP 是世界上最好的语言");`
+- JavaScript - `console.log('PHP 是世界上最好的语言');`
+- Lua - `print("PHP 是世界上最好的语言")`
 - PHP - `echo 'PHP 是世界上最好的语言';`
 - Python - `print('PHP 是世界上最好的语言')`
-- Golang - `fmt.Println("PHP 是世界上最好的语言")`
-- Dart - `print('PHP是世界上最好的语言');`
-- Java - `System.out.println("PHP 是世界上最好的语言");`
-- C - `printf("PHP 是世界上最好的语言");`
-- Groovy - `System.out.println("PHP 是世界上最好的语言")`
-- Lua - `print("PHP 是世界上最好的语言")`
-- JavaScript - `console.log('PHP 是世界上最好的语言');`
 - Ruby - `print('PHP 是世界上最好的语言')`
 - Rust - `println!("PHP 是世界上最好的语言");`
-- C++ - `cout << "PHP 是世界上最好的语言" << endl;`
+
 
 
 ## 使用世界各国语言说出“PHP 是世界上最好的语言”
