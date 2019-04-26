@@ -29,10 +29,10 @@ PHP 以其低廉的学习成本，极高的开发效率，使您在完成同等�
 
 ## 未来的 PHP
 
-* PHP5 到 7 的性能提升
-* PHP7 + Swoole 与 Nginx、Golang 性能对比
-* PHP7 + Swoole 开发互联网、移动通信、企业软件、云计算、网络游戏、物联网（IOT）、车联网、智能家居等
-* PHP8 的 JIT
+- PHP5 到 7 的性能提升
+- PHP7 + Swoole 与 Nginx、Golang 性能对比
+- PHP7 + Swoole 开发互联网、移动通信、企业软件、云计算、网络游戏、物联网（IoT）、车联网、智能家居等
+- PHP8 的 JIT
 
 
 ## 使用各种编程语言输出“PHP 是世界上最好的语言”
@@ -54,18 +54,16 @@ PHP 以其低廉的学习成本，极高的开发效率，使您在完成同等�
 - Rust - `println!("PHP 是世界上最好的语言");`
 
 
-
-
 ## 使用世界各国语言说出“PHP 是世界上最好的语言”
 
 - PHP 是世界上最好的语言。
 - PHP 는 세계 최고의 언어입니다.
-- PHP は世界で最も優れた言語である．
+- PHP は世界最高の言語です。
 - PHP is the best language in the world.
 - PHP est le meilleur langage au monde.
 - PHP ist die beste Sprache der Welt.
-- PHP é a melhor língua do mundo.
-- El PHP es el mejor idioma del mundo.
+- PHP é a melhor linguagem do mundo.
+- PHP es el mejor lenguaje del mundo.
 - PHP — лучший язык в мире.
 - PHP உலகின் தலை சிறந்த நிரலாக்க மொழி.
 
