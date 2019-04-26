@@ -40,20 +40,24 @@ PHP 以其低廉的学习成本，极高的开发效率，使您在完成同等�
 - ASP.NET - `Response.Write("PHP 是世界上最好的语言");`
 - Batch - `echo PHP 是世界上最好的语言`
 - C - `printf("PHP 是世界上最好的语言");`
-- C++ - `cout << "PHP 是世界上最好的语言" << endl;`
+- Common Lisp - `(print "PHP 是世界上最好的语言")`
 - C# - `Console.WriteLine("PHP 是世界上最好的语言");`
+- C++ - `cout << "PHP 是世界上最好的语言" << endl;`
 - Dart - `print('PHP 是世界上最好的语言');`
 - Elixir - `IO.puts "PHP 是世界上最好的语言"`
 - Go - `fmt.Println("PHP 是世界上最好的语言")`
 - Groovy - `System.out.println("PHP 是世界上最好的语言")`
+- Haskell - `putStrLn "PHP 是世界上最好的语言"`
 - Java - `System.out.println("PHP 是世界上最好的语言");`
-- JavaScript - `console.log('PHP 是世界上最好的语言');`
+- JavaScript - `console.log('PHP 是世界上最好的语言')`
 - Lua - `print("PHP 是世界上最好的语言")`
+- Pascal - `writeln("PHP 是世界上最好的语言");`
 - PHP - `echo 'PHP 是世界上最好的语言';`
 - PowerShell - `echo 'PHP 是世界上最好的语言'`
 - Python - `print('PHP 是世界上最好的语言')`
 - Ruby - `print('PHP 是世界上最好的语言')`
 - Rust - `println!("PHP 是世界上最好的语言");`
+- Scheme - `(display "PHP 是世界上最好的语言")`
 - vala - `stdout.printf("PHP 是世界上最好的语言");`
 
 
