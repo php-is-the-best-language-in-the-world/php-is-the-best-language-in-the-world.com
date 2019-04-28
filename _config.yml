@@ -1,2 +1,6 @@
 name: PHP is the best language in the world
 markdown: kramdown
+
+sass:
+    sass_dir: _sass
+    style: compressed
