@@ -1,28 +1,29 @@
 <!DOCTYPE html>
   <head>
+    <meta charset=utf-8>
+    <meta http-equiv=X-UA-Compatible content="IE=edge">
+    <meta name=viewport content="width=device-width,initial-scale=1">
     <title>{{ page.title }}</title>
-    <!-- link to main stylesheet -->
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <link rel="stylesheet" type="text/css" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   </head>
   <body>
-    <nav>
+    <header>
+      <h1>{{ page.title }}</h1>
+    </header>
+    <div class="buttons">
         <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/about">About</a></li>
-            <li><a href="/cv">CV</a></li>
-            <li><a href="/blog">Blog</a></li>
+            <li><a class="github-button" href="https://github.com/php-is-the-best-language-in-the-world/php-is-the-best-language-in-the-world.com/issues" data-size="large" data-show-count="true" aria-label="Issue php-is-the-best-language-in-the-world/php-is-the-best-language-in-the-world.com on GitHub">Issue</a></li>  
+            <li><a class="github-button" href="https://github.com/php-is-the-best-language-in-the-world/php-is-the-best-language-in-the-world.com/fork" data-size="large" data-show-count="true" aria-label="Fork php-is-the-best-language-in-the-world/php-is-the-best-language-in-the-world.com on GitHub">Fork</a></li>
+            <li><a class="github-button" href="https://github.com/php-is-the-best-language-in-the-world/php-is-the-best-language-in-the-world.com" data-size="large" data-show-count="true" aria-label="Star php-is-the-best-language-in-the-world/php-is-the-best-language-in-the-world.com on GitHub">Star</a></li>
+            <li><a class="github-button" href="https://github.com/php-is-the-best-language-in-the-world/php-is-the-best-language-in-the-world.com/subscription" data-size="large" data-show-count="true" aria-label="Watch php-is-the-best-language-in-the-world/php-is-the-best-language-in-the-world.com on GitHub">Watch</a></li>
         </ul>
-    </nav>
-    <div class="container">
-
-    {{ content }}
-
-    </div><!-- /.container -->
+    </div>
+    <main>
+      {{ content }}
+    </main>
     <footer>
-      <ul>
-            <li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-            <li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
-      </ul>
+        <p>Copyright &copy; 2019 PHP is the best language in the world.</p>
     </footer>
   </body>
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
 </html>
