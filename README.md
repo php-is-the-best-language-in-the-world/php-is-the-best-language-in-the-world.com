@@ -2,11 +2,11 @@
 
 ## Why is PHP the best language in the world?
 
-- 学习成本低：PHP 的学习成本非常低，是最容易学习的编程语言，学习成本是 C 和 Java 的 1/10。
-- 开发效率高：PHP 程序简洁，函数库丰富，还有非常多的 PHP 框架供我们选择，极大的提高了开发效率。
-- 社会需求大：诸如百度、阿里巴巴、腾讯、新浪、搜狐，以及大部分互联网创业公司都在使用 PHP。
-- 使用范围广：目前主流网站都用到了 PHP。除此之外，PHP 还可以编写命令行脚本，甚至可以编写桌面应用程序。
-- 行业竞争小：一般大学都不开这门课，大部门 PHP 程序员都是通过培训或自学掌握，市场竞争力相对较小。
+- Low learning costs: PHP's learning cost is very low, it is the easiest programming language to learn, and the learning cost is 1/10 of C and Java.
+- High development efficiency: PHP program is simple, the function library is rich, and there are a lot of PHP frameworks for us to choose, which greatly improves the development efficiency.
+- Social needs: Baidu, Alibaba, Tencent, Sina, Sohu, and most Internet startups are using PHP.
+- Wide range of uses: PHP is currently used on mainstream websites. In addition, PHP can write command line scripts and even write desktop applications.
+- The competition in the industry is small: the general university does not open this course. Most of the PHP programmers are trained or self-learned, and the market competitiveness is relatively small.
 
 
 ## Choose PHP, stay away from 996
