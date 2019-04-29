@@ -6,3 +6,11 @@
         <li><a class="github-button" href="https://github.com/php-is-the-best-language-in-the-world/php-is-the-best-language-in-the-world.com/subscription" data-icon="octicon-eye" data-show-count="true" aria-label="Watch php-is-the-best-language-in-the-world/php-is-the-best-language-in-the-world.com on GitHub">Watch</a></li>
     </ul>
 </div>
+
+{% if page.language == 'cn' %}
+<li role="presentation"><a href="/">English</a></li>
+<li class='active' role="presentation"><a href="/cn">中文</a></li>
+{% else %}
+<li class='active' role="presentation"><a href="/">English</a></li>
+<li role="presentation"><a href="/cn">中文</a></li>
+{% endif %}

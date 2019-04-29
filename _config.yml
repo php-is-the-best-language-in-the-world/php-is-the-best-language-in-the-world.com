@@ -4,3 +4,8 @@ markdown: kramdown
 sass:
     sass_dir: _sass
     style: compressed
+
+# i18n
+gems: ['jekyll-paginate', 'jekyll-multiple-languages']
+languages: ['en', 'cn']
+language_default: 'en'
