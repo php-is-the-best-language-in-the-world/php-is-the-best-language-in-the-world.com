@@ -1,11 +1,14 @@
 name: PHP is the best language in the world
 markdown: kramdown
+baseurl: ""
 
 sass:
-    sass_dir: _sass
-    style: compressed
+  sass_dir: _sass
+  style: compressed
 
-# i18n
-gems: ['jekyll-paginate', 'jekyll-multiple-languages-plugin']
+gems: 
+  - jekyll-multiple-languages-plugin
+  - jekyll-paginate
+
 languages: ['en', 'cn']
 exclude_from_localizations: ["js", "images", "css"]
