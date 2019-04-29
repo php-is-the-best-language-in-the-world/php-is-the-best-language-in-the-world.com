@@ -6,6 +6,6 @@ sass:
     style: compressed
 
 # i18n
-gems: ['jekyll-paginate', 'jekyll-multiple-languages']
+gems: ['jekyll-paginate', 'jekyll-multiple-languages-plugin']
 languages: ['en', 'cn']
-language_default: 'en'
+exclude_from_localizations: ["js", "images", "css"]
