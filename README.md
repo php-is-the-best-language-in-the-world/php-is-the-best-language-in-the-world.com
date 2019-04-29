@@ -1,6 +1,6 @@
-# PHP 是世界上最好的语言
+# PHP is the best language in the world
 
-## 为什么 PHP 是世界上最好的语言？
+## Why is PHP the best language in the world?
 
 - 学习成本低：PHP 的学习成本非常低，是最容易学习的编程语言，学习成本是 C 和 Java 的 1/10。
 - 开发效率高：PHP 程序简洁，函数库丰富，还有非常多的 PHP 框架供我们选择，极大的提高了开发效率。
@@ -9,13 +9,13 @@
 - 行业竞争小：一般大学都不开这门课，大部门 PHP 程序员都是通过培训或自学掌握，市场竞争力相对较小。
 
 
-## 选择 PHP，远离 996
+## Choose PHP, stay away from 996
 
-PHP 以其低廉的学习成本，极高的开发效率，使您在完成同等规模的项目的前提下，节省更多的宝贵时间。
-节省下来的时间，我们可以锻炼身体，陪家人更好的享受生活。选择 PHP，远离 996。
+With its low learning cost and high development efficiency, PHP allows you to save more valuable time while completing projects of the same size.
+Save time, we can exercise and enjoy life with our family. Choose PHP, stay away from 996.
 
 
-## PHP 优秀框架
+## PHP excellent framework
 
 - Yii
 - Laravel
@@ -26,28 +26,28 @@ PHP 以其低廉的学习成本，极高的开发效率，使您在完成同等�
 - Phalcon
 - Zend Framework
 
-## 未来的 PHP
+## Future PHP
 
-* PHP5 到 7 的性能提升
-* PHP7 + Swoole 与 Nginx、Golang 性能对比
-* PHP7 + Swoole 开发互联网、移动通信、企业软件、云计算、网络游戏、物联网（IOT）、车联网、智能家居等
-* PHP8 的 JIT
+* PHP5 to 7 performance boost
+* PHP7 + Swoole vs. Nginx, Golang performance comparison
+* PHP7 + Swoole develops Internet, mobile communications, enterprise software, cloud computing, online gaming, Internet of Things (IOT), car networking, smart home, etc.
+* JIT for PHP8
 
-## 使用各种编程语言输出“PHP 是世界上最好的语言”
+## Output "PHP is the best language in the world" using a variety of programming languages
 
-- PHP - `echo 'PHP 是世界上最好的语言';`
-- Python - `print('PHP 是世界上最好的语言')`
-- Golang - `print("PHP 是世界上最好的语言")`
-- Java - `System.out.println("PHP 是世界上最好的语言");`
-- C - `printf("PHP 是世界上最好的语言");`
-- Groovy - `System.out.println("PHP 是世界上最好的语言")`
-- Lua - `print("PHP 是世界上最好的语言")`
-- JavaScript - `console.log('PHP 是世界上最好的语言');`
-- Ruby - `print('PHP 是世界上最好的语言')`
-- Rust - `println!("PHP 是世界上最好的语言");`
+- PHP - `echo 'PHP is the best language in the world';`
+- Python - `print('PHP is the best language in the world')`
+- Golang - `print("PHP is the best language in the world")`
+- Java - `System.out.println("PHP is the best language in the world");`
+- C - `printf("PHP is the best language in the world");`
+- Groovy - `System.out.println("PHP is the best language in the world")`
+- Lua - `print("PHP is the best language in the world")`
+- JavaScript - `console.log('PHP is the best language in the world');`
+- Ruby - `print('PHP is the best language in the world')`
+- Rust - `println!("PHP is the best language in the world");`
 
 
-## 使用世界各国语言说出“PHP 是世界上最好的语言”
+## Use the language of the world to say "PHP is the best language in the world"
 
 - PHP 是世界上最好的语言。
 - PHP 는 세계 최고의 언어입니다.
@@ -60,7 +60,7 @@ PHP 以其低廉的学习成本，极高的开发效率，使您在完成同等�
 - Php-лучший язык в мире.
 
 
-## 参考文献
+## References
 
 - https://php-is-the-best-language-in-the-world.com
 - https://996.icu/#/zh_CN
