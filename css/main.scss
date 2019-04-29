@@ -22,12 +22,16 @@ header {
 }
 .buttons ul {
     margin: 1rem 0;
+    padding-left: 0;
     list-style: none;
     height: 28px;
 }
 .buttons ul li {
     float: right;
     margin-left: 1rem;
+}
+.buttons a {
+    color: #fff;
 }
 footer {
     max-width: 1170px;
